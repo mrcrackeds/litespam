@@ -5,7 +5,7 @@ Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Dipe
 ```
 $ pkg update upgrade
 $ pkg install git python2 toilet figlet php
-$ git clone https://github.com/4L13199/LITESPAM
+$ git clone https://github.com/icammaci/litespam
 $ cd LITESPAM
 ```
 # PERINGATAN
